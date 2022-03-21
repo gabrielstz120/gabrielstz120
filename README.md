@@ -1,16 +1,12 @@
-### Hi there 👋
+## Olá! Eu sou Gabriel Bernardes 👋
 
-<!--
-**gabrielstz120/gabrielstz120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho como Tecnico de Manutenção em Informatica
+- 🌱 Estudando Ciências da Computação
+- 📫 E-mail para contato: gabriel.stz120@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt=Gabriel.Java" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt=Gabriel.Html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt=Gabriel.Css" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" >
+                                                                                                                                                      </div>  
+                                                                                                                                                     
