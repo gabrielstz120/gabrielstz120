@@ -10,6 +10,5 @@
   <img align="center" alt=Gabriel.Css" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" >
                                                                                                                                                       </div>  
                                                            
-<div>
   ![Snake animation](https://github.com/gabrielstz120/gabrielstz120/blob/output/github-contribution-grid-snake.svg)
-                                                                                                                                                     </div>
+                                                                                                                                                     
