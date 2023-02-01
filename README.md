@@ -8,6 +8,7 @@
   <img align="center" alt=Gabriel.Java" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt=Gabriel.Html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt=Gabriel.Css" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" >
+  <img align="center" alt=Gabriel.Css" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />                                                                                                                                               
                                                                                                                                                       </div>  
                                                            
   ![Snake animation](https://github.com/gabrielstz120/gabrielstz120/blob/output/github-contribution-grid-snake.svg)
