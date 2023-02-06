@@ -1,7 +1,7 @@
 ## Olá! Eu sou Gabriel Bernardes 👋
 
 - 🔭 Hoje trabalho como Tecnico de Manutenção em Informatica
-- 🌱 Estudando Ciências da Computação
+- 🌱 Formado em Ciências da Computação
 - 📫 E-mail para contato: gabriel.stz120@gmail.com
 
 <div style="display: inline_block"><br>
